@@ -14,7 +14,7 @@ Simply open the `index.html` file in a web browser to view the Apple Store repli
 
 ## Preview
 
-You can view the live preview of this replica by clicking [here](https://www.apple.com/th-en/shop/browse/home_th_en).
+You can view the live preview of this replica by clicking [here]([https://www.apple.com/th-en/shop/browse/home_th_en](https://yashwant9999.github.io/FrontendEngineerAssignment/)).
 
 ## Preview Screenshot
 
