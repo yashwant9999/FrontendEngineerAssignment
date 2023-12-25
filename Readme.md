@@ -14,20 +14,16 @@ Simply open the `index.html` file in a web browser to view the Apple Store repli
 
 ## Preview
 
-You can view the live preview of this replica by clicking [here](#).
+You can view the live preview of this replica by clicking [here](https://www.apple.com/th-en/shop/browse/home_th_en).
 
 ## Preview Screenshot
 
-![Apple Store Replica](screenshot.png)
+![Apple Store Replica](
 
+![Screenshot from 2023-12-25 11-12-26](https://github.com/yashwant9999/FrontendEngineerAssignment/assets/138280924/b4a33611-11aa-4cab-8cae-6b3fa32d8045))
 ## Credits
 
 - Original Apple website: [Apple](https://www.apple.com/th-en/shop/browse/home_th_en)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to modify and extend this project for learning purposes. If you have any suggestions or improvements, please open an issue or create a pull request. Happy coding!
