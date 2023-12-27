@@ -20,3 +20,11 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .catch(error => console.error("Error fetching product data:", error));
 });
+
+
+ // JavaScript to toggle the display of the navigation on button click
+ document.getElementById("menu-button").addEventListener("click", function () {
+    var navList = document.querySelector("nav ul");
+    navList.classList.toggle("show");
+    this.classList.toggle("expanded");
+});
